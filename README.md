@@ -4,13 +4,13 @@
 
 ### 🤔 Questions I ask:
 
-#### - How do people's beliefs and attitudes synchronize and polarize to form social norms in social networks? 
+### - How do people's beliefs and attitudes synchronize and polarize to form social norms in social networks? 
 
 
-#### - Why do people become (or at least view others as becoming) increasingly polarized and extreme online?  
+### - Why do people become (or at least view others as becoming) increasingly polarized and extreme online?  
 
 
-#### - I try to answer these questions by combining behavioral experiments with macro-level network analysis, agent-based modeling, natural language processing, and micro-level computational cognition to draw a full picture of these complex social dynamics.
+### - I try to answer these questions by combining behavioral experiments with macro-level network analysis, agent-based modeling, natural language processing, and micro-level computational cognition to draw a full picture of these complex social dynamics.
 
 
 ### 📫 You can reach me from [my website](https://wp.nyu.edu/gallatin-kefang/). Looking forward to hearing from you! 💬
