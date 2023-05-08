@@ -1,6 +1,6 @@
 ### Hi there! I'm Ke (Kay) Fang👋
 
-### 🔭 I’m currently a Master's student at New York University [Colloective Cognition Lab (CoCoLab)](https://wp.nyu.edu/gallatin-kefang/) working with Professor Madalina Vlasceanu [@mvlasceanu].
+### 🔭 I’m currently a Master's student at New York University [Colloective Cognition Lab (CoCoLab)](https://wp.nyu.edu/gallatin-kefang/) working with Professor Madalina Vlasceanu [@mvlasceanu](https://github.com/mvlasceanu).
 
 ### 🤔 Questions I ask:
 
@@ -11,6 +11,7 @@
 
 
 #### - I try to answer these questions by combining behavioral experiments with macro-level network analysis, agent-based modeling, natural language processing, and micro-level computational cognition to draw a full picture of these complex social dynamics.
+
 
 ### 📫 You can reach me from [my website](https://wp.nyu.edu/gallatin-kefang/). Looking forward to hearing from you! 💬
 
