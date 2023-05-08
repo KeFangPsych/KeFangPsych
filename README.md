@@ -1,5 +1,6 @@
 ### Hi there! I'm Ke (Kay) Fang👋
 
+## 🔭 I’m currently a Master's student at New York University [Colloective Cognition Lab (CoCoLab)](https://wp.nyu.edu/gallatin-kefang/).  and Gallatin School of Individualized Study.
 <!--
 **KeFangPsych/KeFangPsych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
