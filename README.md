@@ -1,6 +1,6 @@
 ### Hi there! I'm Ke (Kay) Fang👋
 
-### 🔭 I’m currently a Master's student at New York University [Colloective Cognition Lab (CoCoLab)](https://wp.nyu.edu/gallatin-kefang/) working with Professor Madalina Vlasceanu [@mvlasceanu](https://github.com/mvlasceanu).
+### 🔭 I’m currently a Master's student at New York University [Colloective Cognition Lab (CoCoLab)]([https://wp.nyu.edu/gallatin-kefang/](https://www.mvlasceanu.com/)) working with Professor Madalina Vlasceanu [@mvlasceanu](https://github.com/mvlasceanu).
 
 ### 🤔 Questions I ask:
 
