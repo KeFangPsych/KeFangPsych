@@ -1,12 +1,14 @@
 ### Hi there! I'm Ke (Kay) Fang👋
 
-### 🔭 I’m currently a Master's student at New York University [Colloective Cognition Lab (CoCoLab)](https://wp.nyu.edu/gallatin-kefang/) working with Professor Madalina Vlasceanu @mvlasceanu.
+### 🔭 I’m currently a Master's student at New York University [Colloective Cognition Lab (CoCoLab)](https://wp.nyu.edu/gallatin-kefang/) working with Professor Madalina Vlasceanu [@mvlasceanu].
 
 ### 🤔 Questions I ask:
 
 #### - How do people's beliefs and attitudes synchronize and polarize to form social norms in social networks? 
 
+
 #### - Why do people become (or at least view others as becoming) increasingly polarized and extreme online?  
+
 
 #### - I try to answer these questions by combining behavioral experiments with macro-level network analysis, agent-based modeling, natural language processing, and micro-level computational cognition to draw a full picture of these complex social dynamics.
 
