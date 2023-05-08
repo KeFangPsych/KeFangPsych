@@ -4,7 +4,7 @@
 
 ### 🤔 Questions I ask:
 
-### - How do people's beliefs and attitudes synchronize and polarize to form social norms in social networks? 
+### - How do people's beliefs and attitudes synchronize💑 and polarize🤼 to form social norms in social networks? 
 
 
 ### - Why do people become (or at least view others as becoming) increasingly polarized and extreme online 🎭?  
