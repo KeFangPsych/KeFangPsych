@@ -2,15 +2,7 @@
 
 ### 🔭 I’m currently a PhD student at Stanford University working with Professor [Robert Hawkins](https://rdhawkins.com/).
 
-### 🤔 Questions I ask:
-
-### - How do people's beliefs and attitudes synchronize👫 and polarize🤼 to form social norms in social networks? 
-
-
-### - Why do people become (or at least view others as becoming) increasingly polarized and extreme online 🎭?  
-
-
-### - I try to answer these questions by combining behavioral experiments 🧪 with macro-level agent-based modeling, natural language processing, network analysis🕸️ and micro-level computational cognition 🧠 to draw a full picture of these complex social dynamics.
+### 🤔 I'm interested in computational approaches to understand how distributed individual minds support emergent collective-level behaviors and patterns such as cooperation, social norms, and polarization.
 
 ### 📫 You can reach me from [my website](https://wp.nyu.edu/gallatin-kefang/). Looking forward to hearing from you! 💬
 
