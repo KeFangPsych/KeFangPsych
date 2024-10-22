@@ -4,7 +4,8 @@
 
 ### 🤔 I'm interested in computational approaches to understand how distributed individual minds support emergent collective-level behaviors and patterns such as cooperation, social norms, and polarization.
 
-### 📫 You can reach me from [my website](https://wp.nyu.edu/gallatin-kefang/). Looking forward to hearing from you! 💬
+### 📫 You can reach me from [my website](https://kefangpsych.github.io/intro.html). Looking forward to hearing from you! 💬
+
 
 <!--
 **KeFangPsych/KeFangPsych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
